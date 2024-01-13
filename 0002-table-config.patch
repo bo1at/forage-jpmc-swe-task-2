@@ -1,0 +1,66 @@
+From e31488d9100d4e365753266d873114bd3e76e09f Mon Sep 17 00:00:00 2001
+From: bolatizbulov <bolat.izbulov@outlook.com>
+Date: Fri, 12 Jan 2024 17:26:34 +0500
+Subject: [PATCH 2/2] table config
+
+---
+ src/.Graph.tsx.swp | Bin 0 -> 12288 bytes
+ src/Graph.tsx      |   2 +-
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ create mode 100644 src/.Graph.tsx.swp
+
+diff --git a/src/.Graph.tsx.swp b/src/.Graph.tsx.swp
+new file mode 100644
+index 0000000000000000000000000000000000000000..1d91ab3f89232a992f3825ad63743181bb5a6ebe
+GIT binary patch
+literal 12288
+zcmeI2zi%8x6vrn>0g^ZnITEzPA#%3m+cQZ4aU4T}Lr9b(R^p_<3ijOY+}+~con>b3
+z&KJj_B|-rjDhfhF0UZ^hpg~9|NE9jfCjcQ)Qt_Rcy<fKD9yBL?e0THX&Ajh>^Tw99
+zK6mp{jh+tX2wuks`Elk;{^+Z_<nE`0)J4K{e7oLGM8|YL?p0&qc_B6`=VDnoZ{`Gv
+z2wAdg_}x*1)g=+OQ=Vy66>Xh!E~}T9YeF_zR&5B$n!NH}o`x0G<rU4;M&)Ex$*_7+
+zvb+^&wYkf>Z}19u1@>3qC^>cVWqZ_LEWJRFPu|#nxbO7}cm=!yUIDLwSHLUa74Qmp
+z1^!nG===cr03JP2cy+CKKd|Gy`0C%h0$u^HfLFjP;1%!+cm=!yUIDLwSHLUa75EP-
+zz#>8>4-z7u#OCq;|Nh_qzdcLH*WfmYKnT{r0(cd?1SY^?a0na(51%3AKDY;#!5j!c
+z1x$m#juP?%_#S)=x?mN&18U%Ta2!m6e<ld|39NwYU=ftTA@KVVLLPx%z(a5!Tm_fF
+zDe%W(i~-+)&p{4Og9G5_Lxem4+u&XB8h8#I0~6o~`1@%>z5w^YE8x$k2>BLt00)=B
+z1o#!2eFGkV&%h_(BXAFV2#luh1OM_0cm=!yUIC*3-^_*7G~x}`PBgU-be%y#CX^cb
+zKk+_2ea1G}#^Fawb)0ggS(?vNo&<w$vxCtXBJ#C*9IfRt4!IlVTIh)rc9Q!R*nWEF
+z4xQUM8_%5Wn2nZ^+4%OD*-DFW!>(yR4Gl}K+cKkDgMC)3^i3gCrm1dm8ZpgiLyDAM
+z=d#1)HLh}zMexOTtFXmWR?O9{SOuEZ6CSj4OypCxC6^*sfiV=MET5X<$vkCQZ<?N6
+z94w1PSx3YXjWflij<Y6>+IbR(uo6)`ktbuW(1~T2xl}n1b==|9E=F0C#aU2n0+!Ax
+znlpq`H0&PDlX|nXC)zaQFa{Hic+>WDS&w!(b(<Z!Yd4H>)?(bC&JDZPbg^Tsasg`e
+zOq_R4j8$PVnl0QJj@a7+EEI|qy28<=IJ)7)Gi#w|JOL>!4RWhAUy5P{u|kdc?M#=p
+z*GJN`G?s4|%sS1|Fz~i}kWjn2w@NlqcCXR5z!RPZitBS4!Kt?q?J{dNC2t~Rsys{A
+zi-7DgE)+>S&CH<k>W*#PDi1u^W1<w@N*;HF?$7NXy3+ph+=63Mop<|B>%_ckHrZQC
+z;*9UuSt3|8ni>6KU=lEjXeuNh%hgb1jkwvCczji4inh4qfr+nqVa^qpvw5;^6Kx%-
+z<GwEB!-TJx9dWt1PM5CMsN@Y8$wJsMM)uBBmp&*ygTqPB(r%nZq8p4@4!S~aa5**Y
+z4)Bya*hMUi<=s<E-PzqbFjS;361cC-AaUnu*_4NJKb6K36`c)etH*i=dAh5&C~Reg
+zEX<n4BxtQPbw0pddydQ*Gp#1A&=wVs`UXv|FQCah^?Saz!kTZh6sbHS4RxZIr|Ih4
+zEy{4ZvyDu2GxKqz7~Qm?DNH$+5!Q>`tqAj`@-VGg*s_6jwab=PQ)m%T6UNaxP%~$G
+zYOD+t)%qG|p$<aHp<=P(*p`btaT$vgiA-dj40hRhx?;*Sy#rrx=^?ozvt#Uc#35H*
+zNtiID+?7cAriL*^-{@DXg-gq(y3f+BZClJ|s)Wv%>Z?#`t#7fm)!6#qlA_&gxjV%a
+zSycKSoSvc9pP}#22iK3=_n5}C&WvG^SsSD}Gvh94a~9`Or;SsEZ}xgISIR6w(dDwi
+z!m;x>7OsI~Z>`j>6oQ&c@7!6z(J^;VVFc1E6MIIxc<>ueP&^w>S9&>Dp^S4=i_<(#
+zxU{Z~3Yx@q$z+eR2pXC_o0J$`5~66KVJR5;W-iY8@!NOx)~Hi11jFsxh~Re_1kM#3
+zyT1kdOAW0qI?FMx8(fj)pm=&cRH}T26s=q1%h7EYN(^4YX0B`GUCQO?c$ZH7ajzqz
+agsMWC{!Kj`YeS8E8RpQyJj{j~BmV`o32m$Z
+
+literal 0
+HcmV?d00001
+
+diff --git a/src/Graph.tsx b/src/Graph.tsx
+index 29c6aaa..2f8248a 100644
+--- a/src/Graph.tsx
++++ b/src/Graph.tsx
+@@ -32,7 +32,7 @@ class Graph extends Component<IProps, {}> {
+ 
+   componentDidMount() {
+     // Get element to attach the table from the DOM.
+-    const elem = document.getElementsByTagName('perspective viewer') [0] as unknown as PerspectiveViewerElement;
++    const elem = document.getElementsByTagName('perspective-viewer') [0] as unknown as PerspectiveViewerElement;
+ 
+     const schema = {
+       stock: 'string',
+-- 
+2.37.1 (Apple Git-137.1)
+
